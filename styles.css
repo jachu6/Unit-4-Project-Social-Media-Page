@@ -1,0 +1,154 @@
+.navBar {
+    background-color: #b09bc7;
+    margin: 3px;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.navBar1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #313e58;
+    margin: 3px;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.page {
+    display: flex;
+    justify-content: space-around;
+    background-color: #313e58;
+    margin: 3px;
+    padding: 10px;
+    border: 5px solid black;
+}
+
+.item1 {
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #E7D5C7;
+    background-color: #313e58;
+    color: white;
+
+}
+
+.item1:hover {
+    color: #C6808C;
+}
+
+.item2 {
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #E7D5C7;
+    background-color: #313e58;
+    color: white;
+}
+
+.item2:hover {
+    color: #C6808C;
+}
+
+.item3 {
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #E7D5C7;
+    background-color: #313e58;
+    color: white;
+}
+
+.item3:hover {
+    color: #C6808C;
+}
+
+.item4 {
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #E7D5C7;
+    background-color: #313e58;
+    color: white;
+}
+
+.item4:hover {
+    color: #C6808C;
+}
+
+h2 {
+    text-align: center;
+}
+
+.img {
+    margin: 25px;
+}
+
+.pics {
+    display: flex;
+}
+
+.pics1 {
+    display: flex;
+}
+p {
+    text-align: center;
+}
+.sidenav {
+    width: 200px; 
+    height:450px;
+    z-index: 1;
+    top: 240px;
+    left: 38px;
+    background: #b09bc7;
+    overflow-x: hidden;
+    padding: 8px;
+    border: 3px solid white;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #313e58;
+    display: block;
+    border: 1px solid white;
+}
+
+.sidenav a:hover {
+    color: #C6808C;
+}
+
+.sidenav2 {
+    width: 200px;
+    height:450px;
+    z-index: 1;
+    top: 240px;
+    right: 38px;
+    background: #b09bc7;
+    overflow-x: hidden;
+    padding: 8px;
+    border: 3px solid white;
+}
+
+.sidenav2 a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #313e58;
+    display: block;
+    border: 1px solid white;
+}
+
+.sidenav2 a:hover {
+    color: #C6808C;
+}
+body {
+    color: white;
+}
+.img {    
+    border-radius: 5px;
+    background: #b09bc7;
+    border-style: none;
+    padding: 7px;
+}
+
+.img:hover {
+    background-color: #706897;
+}
